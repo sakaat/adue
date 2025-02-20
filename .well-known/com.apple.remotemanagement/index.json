@@ -2,7 +2,7 @@
   "Servers": [
     {
       "Version": "mdm-byod",
-      "BaseURL": "https://toocorporatomoykztbx.jamfcloud.com/servicediscoveryenrollment/v1/userenroll"
+      "BaseURL": "https://manage.microsoft.com/EnrollmentServer/PostReportDeviceInfoForUEV2?aadTenantId=e48a2e7e-2a8f-4461-a1c9-92f1af995377"
     }
   ]
 }
