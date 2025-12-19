@@ -1,7 +1,7 @@
 {
   "Servers": [
     {
-      "Version": "mdm-adde",
+      "Version": "mdm-byod",
       "BaseURL": "https://toocorporatomoykztbx.jamfcloud.com/servicediscoveryenrollment/v1/userenroll"
     }
   ]
